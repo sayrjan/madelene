@@ -1,4 +1,3 @@
-<!DOCTYPE html><html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -72,4 +71,3 @@
         <p>🎈 Enjoy your Day! Aguyyy sanaol...Ingat ikaw palagi! Sheeshh..IMY Beh! Muah! HAHAHAHAHAHAHA! 🎁✨</p>
     </div>
 </body>
-</html>
